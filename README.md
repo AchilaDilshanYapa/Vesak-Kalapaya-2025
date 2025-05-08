@@ -48,7 +48,7 @@ achiladilshanyapa@gmail.com
 
 ## Live Demo
 
-Try the game here: [වෙසක් කලාපයට ගිහින් බලමුද?](https://achiladilshanyapa.github.io/vesak-kalapaya-2025/)
+Try the game here: [වෙසක් කලාපයට ගිහින් බලමුද?](https://achiladilshanyapa.github.io/Vesak-Kalapaya-2025/)
 
 ---
 Made with ❤️ by AD King
